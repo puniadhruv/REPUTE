@@ -1,0 +1,14 @@
+Date,Amount,Type,Category
+2025-01-03,20000,Credit,Income
+2025-01-10,-4500,Debit,Rent
+2025-01-15,-900,Debit,Electricity
+2025-01-20,-600,Debit,Mobile Recharge
+2025-02-03,20000,Credit,Income
+2025-02-10,-4500,Debit,Rent
+2025-02-14,-850,Debit,Electricity
+2025-02-18,-550,Debit,Mobile Recharge
+2025-03-03,20000,Credit,Income
+2025-03-10,-4500,Debit,Rent
+2025-03-16,-920,Debit,Electricity
+2025-03-19,-580,Debit,Mobile Recharge
+

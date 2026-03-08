@@ -1,0 +1,54 @@
+Date,Amount,Type,Category,Description
+2025-01-05,30000,Credit,Income,Salary
+2025-01-07,-800,Debit,Groceries,Supermarket
+2025-01-10,-9000,Debit,Rent,Apartment Rent
+2025-01-12,-600,Debit,Transport,Metro Card
+2025-01-15,-1200,Debit,Electricity,Electricity Bill
+2025-01-18,-500,Debit,Internet,Broadband Bill
+2025-01-22,-1500,Debit,Shopping,Clothing
+2025-01-26,-700,Debit,Groceries,Supermarket
+
+2025-02-05,30000,Credit,Income,Salary
+2025-02-07,-750,Debit,Groceries,Supermarket
+2025-02-10,-9000,Debit,Rent,Apartment Rent
+2025-02-12,-650,Debit,Transport,Metro Card
+2025-02-15,-1100,Debit,Electricity,Electricity Bill
+2025-02-18,-500,Debit,Internet,Broadband Bill
+2025-02-21,-2000,Debit,Shopping,Online Shopping
+2025-02-25,-800,Debit,Groceries,Supermarket
+
+2025-03-05,32000,Credit,Income,Salary
+2025-03-08,-900,Debit,Groceries,Supermarket
+2025-03-10,-9000,Debit,Rent,Apartment Rent
+2025-03-12,-600,Debit,Transport,Metro Card
+2025-03-15,-1300,Debit,Electricity,Electricity Bill
+2025-03-18,-500,Debit,Internet,Broadband Bill
+2025-03-22,-1200,Debit,Food,Dining
+2025-03-26,-850,Debit,Groceries,Supermarket
+
+2025-04-05,30000,Credit,Income,Salary
+2025-04-07,-850,Debit,Groceries,Supermarket
+2025-04-10,-9000,Debit,Rent,Apartment Rent
+2025-04-12,-650,Debit,Transport,Metro Card
+2025-04-15,-1150,Debit,Electricity,Electricity Bill
+2025-04-18,-500,Debit,Internet,Broadband Bill
+2025-04-21,-1700,Debit,Shopping,Electronics
+2025-04-25,-780,Debit,Groceries,Supermarket
+
+2025-05-05,31000,Credit,Income,Salary
+2025-05-07,-820,Debit,Groceries,Supermarket
+2025-05-10,-9000,Debit,Rent,Apartment Rent
+2025-05-12,-600,Debit,Transport,Metro Card
+2025-05-15,-1200,Debit,Electricity,Electricity Bill
+2025-05-18,-500,Debit,Internet,Broadband Bill
+2025-05-22,-1400,Debit,Food,Restaurant
+2025-05-27,-900,Debit,Groceries,Supermarket
+
+2025-06-05,32000,Credit,Income,Salary
+2025-06-07,-870,Debit,Groceries,Supermarket
+2025-06-10,-9000,Debit,Rent,Apartment Rent
+2025-06-12,-620,Debit,Transport,Metro Card
+2025-06-15,-1250,Debit,Electricity,Electricity Bill
+2025-06-18,-500,Debit,Internet,Broadband Bill
+2025-06-22,-1800,Debit,Shopping,Clothing
+2025-06-26,-820,Debit,Groceries,Supermarket

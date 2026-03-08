@@ -1,0 +1,29 @@
+{
+  "address": "0x0000000000000000000000000000000000000000",
+  "abi": [
+    {
+      "inputs": [
+        { "internalType": "address", "name": "user", "type": "address" },
+        { "internalType": "string", "name": "tier", "type": "string" },
+        { "internalType": "bytes32", "name": "proofHash", "type": "bytes32" }
+      ],
+      "name": "updateReputation",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        { "internalType": "address", "name": "user", "type": "address" }
+      ],
+      "name": "getReputation",
+      "outputs": [
+        { "internalType": "string", "name": "tier", "type": "string" },
+        { "internalType": "bytes32", "name": "proofHash", "type": "bytes32" },
+        { "internalType": "uint256", "name": "timestamp", "type": "uint256" }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+}
